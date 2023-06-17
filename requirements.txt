@@ -1,0 +1,6 @@
+langchain==0.0.201
+openai==0.27.6
+gradio==3.30.0
+pinecone-client==2.2.2
+PyMuPDF==1.22.3
+Pillow==9.5.0
