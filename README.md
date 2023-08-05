@@ -1,2 +1,12 @@
-# pharmax
-pharmax
+# Pharmax
+Welcome to my repo, I'm sharing my Pharmax Project, I made this project using multiple AI technologies such as LLM (GPT3.5), Speech To text(whisper), Langchain, and this project won as one of the top 10 in langchain-online-ai-hackathon organized by lablab.me and powered by SDAIA.
+
+
+![Project Photo](https://lablab.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-me%2Fimages%252Fsubmissions%252Fclixkld2l00003b6p5sd5q8is%252Fcliu6nu33007u3b6onuztcccl_i96x3pxj_imageLink.jpg&w=1080&q=75)
+
+**Project Link:** [Pharma X](https://lablab.me/event/langchain-online-ai-hackathon/medisoft-health/pharma-x)
+
+**Project Video Link:** [Pharma X Video](https://storage.googleapis.com/lablab-video-submissions/clhx9fa8m0000356qxhyvi9ty%2Fraw%2Fsubmission-video-x-clhx9fa8m0000356qxhyvi9ty-cliu6nu33007u3b6onuztcccl.mp4)
+
+## Project Description
+Pharma X is an innovative healthcare solution that utilizes advanced AI algorithms to transform the prescription process. By analyzing patient data, including medical history and medication records, it generates tailored and safe prescriptions, optimizing treatment plans and enhancing patient care. Traditional prescription writing can be cumbersome and prone to errors. Pharma X streamlines this process by integrating comprehensive patient data and leveraging AI algorithms to generate accurate and personalized prescriptions. With its ability to quickly analyze vast amounts of medical information, Pharma X provides healthcare providers with efficient and reliable prescription generation. One of the key benefits of Pharma X is its ability to mitigate potential drug interactions. By cross-referencing current medications with prescribed medicines, it ensures patient safety and reduces the risk of adverse effects. This advanced feature sets Pharma X apart, providing healthcare providers with the confidence that the prescribed medications are safe and suitable for the patient's unique medical profile. Pharma X also enables personalized care by considering individual factors such as age, gender, medical history, and allergies. This tailored approach optimizes treatment effectiveness and patient satisfaction. By providing precise dosage instructions and general advice, Pharma X empowers patients to take an active role in their healthcare journey. In addition to enhancing patient care, Pharma X offers time and cost savings. Its streamlined workflow and efficient prescription generation save valuable time for healthcare providers, allowing them to focus more on patient care. By preventing medication errors and improving patient outcomes, Pharma X also contributes to reducing healthcare costs in the long run.
